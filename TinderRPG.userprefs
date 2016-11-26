@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Driver.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Driver.cs" Line="81" Column="32" />
+      <File FileName="Assets\Scripts\Choice.cs" Line="21" Column="55" />
+      <File FileName="Assets\Scripts\Choices\Setup.cs" Line="14" Column="26" />
+      <File FileName="Assets\Scripts\Choices\Farm.cs" Line="14" Column="24" />
+      <File FileName="Assets\Scripts\Choices\Farmer.cs" Line="14" Column="24" />
+      <File FileName="Assets\Scripts\Choices\Crow.cs" Line="14" Column="24" />
+      <File FileName="Assets\Scripts\Choices\Mine.cs" Line="10" Column="3" />
+      <File FileName="Assets\Scripts\Choices\Kobold.cs" Line="14" Column="24" />
+      <File FileName="Assets\Scripts\Choices\Rock.cs" Line="14" Column="24" />
+      <File FileName="Assets\Scripts\Choices\Forest.cs" Line="11" Column="2" />
+      <File FileName="Assets\Scripts\Choices\Elf.cs" Line="14" Column="25" />
+      <File FileName="Assets\Scripts\Choices\Ent.cs" Line="14" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
